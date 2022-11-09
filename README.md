@@ -94,23 +94,15 @@ description: ISSC242 Hardening Operating Systems
 
 3\. Explanation of the results of Part 4 for the ANewuser account;&#x20;
 
-> {% code overflow="wrap" %}
-> ```
-> When the workstation was shutdown, it lost its connection with 172.30.0.1, therefore loosing its access.
-> ```
-> {% endcode %}
+When the workstation was shutdown, it lost its connection with 172.30.0.1, therefore loosing its access.
 
 ## SECTION 3: Lab Challenge and Analysis&#x20;
 
 ### Analysis and Discussion&#x20;
 
-1. Use the Internet to research the SYSTEM account. Why is it necessary to include this account with full control on a directory?&#x20;
+1. Use the Internet to research the SYSTEM account. Why is it necessary to include this account with full control on a directory?
 
-> {% code overflow="wrap" %}
-> ```
-> SYSTEM account unlike a user has no acces, no password, but does allow the use of local services to access files.
-> ```
-> {% endcode %}
+SYSTEM account unlike a user has no access, no password, but does allow the use of local services to access files.
 
 ### Tools and Commands&#x20;
 
