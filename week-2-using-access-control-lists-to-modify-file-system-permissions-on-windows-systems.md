@@ -9,16 +9,34 @@ description: ISSC242 Hardening Operating Systems Week 2
 ### _**Part 1. View Existing ACLs on a Windows System**_
 
 1. original permissions for the Shopfloor group in the SFfiles directory (screen capture):
+   1.
+
+       <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 2. original permissions for the HumanResources group in the HRfiles directory (screen capture):
+   1.
+
+       <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 3. original permissions for the Managers group in the MGRfiles directory (screen capture):
+   1.
+
+       <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### _**Part 2. Modify ACLs using Icacls.exe**_
 
-1. compare the results of the icacls.exe command with the ACLs you documented in Part 1 of this lab:
-2. compare the results of the icacls.exe command after modifying the ACLs:
+1. compare the results of the icacls.exe command with the ACLs you documented in Part 1 of this lab: I have compared!
+2. compare the results of the icacls.exe command after modifying the ACLs: I have compared this also!
 3. icacls.exe results for updated SFfiles directory permissions (screen capture):
-4. icacls.exe results for updated SFfiles directory permissions (screen capture):
+   1.
+
+       <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+4. icacls.exe results for updated HRfiles directory permissions (screen capture):
+   1.
+
+       <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 5. icacls.exe results for updated MGRfiles directory permissions (screen capture):
+   1.
+
+       <figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Part 3. Validate ACL Settings**_
 

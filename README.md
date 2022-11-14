@@ -14,7 +14,7 @@ description: ISSC242 Hardening Operating Systems Week 1
 
 1. The updated policy settings for the new PasswordGPO (screen capture):&#x20;
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Part 2. User and Group Administration&#x20;
 
@@ -24,11 +24,11 @@ description: ISSC242 Hardening Operating Systems Week 1
 
 2\. Members of the HumanResources group (screen capture):&#x20;
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 3\. Members of the ShopFloor group (screen capture):&#x20;
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Part 3. Resource Management&#x20;
 
@@ -38,7 +38,7 @@ description: ISSC242 Hardening Operating Systems Week 1
 
 2\. Updated share permissions for the HRfiles folder (screen capture):&#x20;
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Updated share permissions for the SFfiles folder (screen capture):&#x20;
 
@@ -48,7 +48,7 @@ description: ISSC242 Hardening Operating Systems Week 1
 
 1. Access test text file for HRUser01 (screen capture):&#x20;
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Access test text file for SFManager (screen capture):&#x20;
 
@@ -66,7 +66,7 @@ description: ISSC242 Hardening Operating Systems Week 1
 
 1. The new Password Policy for the yourname\_PasswordGPO (screen capture):&#x20;
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 2\. The new Account Lockout Policy for the yourname\_PasswordGPO (screen capture):&#x20;
 
@@ -86,7 +86,7 @@ description: ISSC242 Hardening Operating Systems Week 1
 
 1. The result of Part 4, Step 3 (screen capture):&#x20;
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Description of the results of Part 4 for the ANewuser account;&#x20;
 
