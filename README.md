@@ -1,8 +1,8 @@
 ---
-description: ISSC242 Hardening Operating Systems
+description: ISSC242 Hardening Operating Systems Week 1
 ---
 
-# ☝ WEEK 1 SECTION 1: Hands-On Demonstration
+# ☝ Implementing Access Controls with Windows Active Directory
 
 
 
