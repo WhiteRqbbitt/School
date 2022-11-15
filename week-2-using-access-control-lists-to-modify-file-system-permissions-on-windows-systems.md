@@ -17,12 +17,12 @@ description: ISSC242 Hardening Operating Systems Week 2
 
 
 
-    <figure><img src=".gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 3.  original permissions for the Managers group in the MGRfiles directory (screen capture):
 
 
 
-    <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### _**Part 2. Modify ACLs using Icacls.exe**_
 
@@ -32,7 +32,7 @@ description: ISSC242 Hardening Operating Systems Week 2
 
 
 
-    <figure><img src=".gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 4.  icacls.exe results for updated HRfiles directory permissions (screen capture):
 
 
@@ -50,13 +50,17 @@ description: ISSC242 Hardening Operating Systems Week 2
 
 
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 2.  modified New Text Document in the HRfiles directory:
 
 
 
-    <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-3. modified New Text Document in the MGRfiles directory:
+    <figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+3.  modified New Text Document in the MGRfiles directory:
+
+
+
+    <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ## **SECTION 2: Applied Learning**
 
