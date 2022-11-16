@@ -80,7 +80,7 @@ description: ISSC242 Hardening Operating Systems Week 1
 
 2\. The updated Security permissions for the yourtown directory (screen capture):&#x20;
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Part 4. Practical Application&#x20;
 

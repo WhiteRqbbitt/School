@@ -22,7 +22,7 @@ description: ISSC242 Hardening Operating Systems Week 2
 
 
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Part 2. Modify ACLs using Icacls.exe**_
 
@@ -66,7 +66,23 @@ description: ISSC242 Hardening Operating Systems Week 2
 
 ### _**Part 1. Modify a Script to Add a New User**_
 
-1. the new user account in Part 1 of the script (screen capture):
+1.  the new user account in Part 1 of the script:
+
+
+
+    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+{% code overflow="wrap" %}
+```
+New-ADUser -Name JGilman -SamAccountName JGilman -GivenName J -Surname Gilman
+
+Set-ADAccountPassword -Identity JGilman -NewPassword (ConvertTo-SecureString -AsPlainText "$tr0ngpass!" -Force)
+
+Enable-ADAccount -Identity JGilman
+
+Set-ADUser JGilman -replace @{'msNPAllowDialin'=$true}
+```
+{% endcode %}
 
 ### _**Part 2. Modify a Script to Add a New Group**_
 
