@@ -12,7 +12,7 @@ description: ISSC242 Hardening Operating Systems Week 2
 
 
 
-    <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 2.  original permissions for the HumanResources group in the HRfiles directory (screen capture):
 
 
@@ -37,12 +37,12 @@ description: ISSC242 Hardening Operating Systems Week 2
 
 
 
-    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 5.  icacls.exe results for updated MGRfiles directory permissions (screen capture):
 
 
 
-    <figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Part 3. Validate ACL Settings**_
 
@@ -55,7 +55,7 @@ description: ISSC242 Hardening Operating Systems Week 2
 
 
 
-    <figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 3.  modified New Text Document in the MGRfiles directory:
 
 
@@ -70,34 +70,46 @@ description: ISSC242 Hardening Operating Systems Week 2
 
 
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-{% code overflow="wrap" %}
-```
-New-ADUser -Name JGilman -SamAccountName JGilman -GivenName J -Surname Gilman
-
-Set-ADAccountPassword -Identity JGilman -NewPassword (ConvertTo-SecureString -AsPlainText "$tr0ngpass!" -Force)
-
-Enable-ADAccount -Identity JGilman
-
-Set-ADUser JGilman -replace @{'msNPAllowDialin'=$true}
-```
-{% endcode %}
+    <figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Part 2. Modify a Script to Add a New Group**_
 
-1. modifications to Part 2 of the script (screen capture):
+1.  modifications to Part 2 of the script (screen capture):
+
+
+
+    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### _**Part 3. Modify Permissions Using a Script**_
 
-1. current contents of the TargetWindows01 C: drive (screen capture):
+1.  current contents of the TargetWindows01 C: drive:
+
+
+
+    <figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Part 4. Create Directories Using a Script**_
 
-1. modifications to Part 4 of the script (screen capture):
-2. contents of the new LabDocuments2 directory (screen capture):
-3. the permissions for the ISSA01 security group (screen capture):
-4. members of the ISSA01 security group (screen capture):
+1.  modifications to Part 4 of the script:
+
+
+
+    <figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+2.  contents of the new LabDocuments2 directory:
+
+
+
+    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+3.  the permissions for the ISSA01 security group:
+
+
+
+    <figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+4.  members of the ISSA01 security group:
+
+
+
+    <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ## **SECTION 3: Challenge Questions**
 
@@ -105,6 +117,10 @@ Set-ADUser JGilman -replace @{'msNPAllowDialin'=$true}
 
 1. Explain how the principle of least privilege can be used in a corporate setting to protect corporate resources.
 
+Least privilege is the principle of giving users the least amount of permissions to do their job. This can be done in a corporate setting by having properly setup groups paired with permission levels. Additional needs special to the individual can be added later once the need is justified.&#x20;
+
 ### _**Tools and Commands**_
 
 1. Research ACLs on the Internet and determine what permissions are required to rename existing files.
+
+The user would need read, write, and owner permissions. Owner is needed because renaming deletes the source or original file.&#x20;

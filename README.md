@@ -24,7 +24,7 @@ description: ISSC242 Hardening Operating Systems Week 1
 
 2\. Members of the HumanResources group (screen capture):&#x20;
 
-<figure><img src=".gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Members of the ShopFloor group (screen capture):&#x20;
 
@@ -48,7 +48,7 @@ description: ISSC242 Hardening Operating Systems Week 1
 
 1. Access test text file for HRUser01 (screen capture):&#x20;
 
-<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Access test text file for SFManager (screen capture):&#x20;
 
@@ -90,7 +90,7 @@ description: ISSC242 Hardening Operating Systems Week 1
 
 2\. Description of the results of Part 4 for the ANewuser account;&#x20;
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Explanation of the results of Part 4 for the ANewuser account;&#x20;
 
