@@ -17,12 +17,12 @@ description: ISSC242 Hardening Operating Systems Week 2
 
 
 
-    <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 3.  original permissions for the Managers group in the MGRfiles directory (screen capture):
 
 
 
-    <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Part 2. Modify ACLs using Icacls.exe**_
 
@@ -50,7 +50,7 @@ description: ISSC242 Hardening Operating Systems Week 2
 
 
 
-    <figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 2.  modified New Text Document in the HRfiles directory:
 
 
@@ -70,7 +70,7 @@ description: ISSC242 Hardening Operating Systems Week 2
 
 
 
-    <figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Part 2. Modify a Script to Add a New Group**_
 
@@ -78,7 +78,7 @@ description: ISSC242 Hardening Operating Systems Week 2
 
 
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Part 3. Modify Permissions Using a Script**_
 
@@ -99,12 +99,12 @@ description: ISSC242 Hardening Operating Systems Week 2
 
 
 
-    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 3.  the permissions for the ISSA01 security group:
 
 
 
-    <figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 4.  members of the ISSA01 security group:
 
 

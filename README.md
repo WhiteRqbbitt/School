@@ -20,7 +20,7 @@ description: ISSC242 Hardening Operating Systems Week 1
 
 1. members of the Managers group (screen capture):&#x20;
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Members of the HumanResources group (screen capture):&#x20;
 
@@ -66,7 +66,7 @@ description: ISSC242 Hardening Operating Systems Week 1
 
 1. The new Password Policy for the yourname\_PasswordGPO (screen capture):&#x20;
 
-<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. The new Account Lockout Policy for the yourname\_PasswordGPO (screen capture):&#x20;
 
@@ -80,7 +80,7 @@ description: ISSC242 Hardening Operating Systems Week 1
 
 2\. The updated Security permissions for the yourtown directory (screen capture):&#x20;
 
-<figure><img src=".gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Part 4. Practical Application&#x20;
 
@@ -90,7 +90,7 @@ description: ISSC242 Hardening Operating Systems Week 1
 
 2\. Description of the results of Part 4 for the ANewuser account;&#x20;
 
-<figure><img src=".gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Explanation of the results of Part 4 for the ANewuser account;&#x20;
 
