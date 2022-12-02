@@ -32,7 +32,7 @@ description: ISSC242 Hardening Operating Systems Week 2
 
 
 
-    <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 4.  icacls.exe results for updated HRfiles directory permissions (screen capture):
 
 
@@ -60,7 +60,7 @@ description: ISSC242 Hardening Operating Systems Week 2
 
 
 
-    <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## **SECTION 2: Applied Learning**
 
@@ -78,7 +78,7 @@ description: ISSC242 Hardening Operating Systems Week 2
 
 
 
-    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Part 3. Modify Permissions Using a Script**_
 
@@ -94,12 +94,12 @@ description: ISSC242 Hardening Operating Systems Week 2
 
 
 
-    <figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
 2.  contents of the new LabDocuments2 directory:
 
 
 
-    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 3.  the permissions for the ISSA01 security group:
 
 

@@ -13,7 +13,7 @@ description: ISSC242 I002 Fall 2022
 
 
 
-       <figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src=".gitbook/assets/image (13) (2).png" alt=""><figcaption></figcaption></figure>
    *   Notepad and the error message;&#x20;
 
 
@@ -23,7 +23,7 @@ description: ISSC242 I002 Fall 2022
 
 
 
-       <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
    *   Notepad and the BitLocker recovery key;&#x20;
 
 
@@ -33,7 +33,7 @@ description: ISSC242 I002 Fall 2022
 
 
 
-       <figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src=".gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## SECTION 2:
 
@@ -42,17 +42,17 @@ description: ISSC242 I002 Fall 2022
 
        &#x20;
 
-       <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src=".gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
    *   Notepad and the error message;&#x20;
 
 
 
-       <figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src=".gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
    *   unlocked E: drive in the File Explorer;&#x20;
 
 
 
-       <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+       <figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
    *   user access details for the Encrypt folder;
 
 
