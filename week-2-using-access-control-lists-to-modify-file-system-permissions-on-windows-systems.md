@@ -17,12 +17,12 @@ description: ISSC242 Hardening Operating Systems Week 2
 
 
 
-    <figure><img src=".gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
 3.  original permissions for the Managers group in the MGRfiles directory (screen capture):
 
 
 
-    <figure><img src=".gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (4) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Part 2. Modify ACLs using Icacls.exe**_
 
@@ -86,7 +86,7 @@ description: ISSC242 Hardening Operating Systems Week 2
 
 
 
-    <figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (14) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### _**Part 4. Create Directories Using a Script**_
 

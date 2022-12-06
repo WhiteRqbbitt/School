@@ -34,7 +34,7 @@ description: ISSC242 Hardening Operating Systems Week 1
 
 1. Updated share permissions for the MGRfiles folder (screen capture):&#x20;
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Updated share permissions for the HRfiles folder (screen capture):&#x20;
 
@@ -60,7 +60,7 @@ description: ISSC242 Hardening Operating Systems Week 1
 
 1. The two new users within the Contractors OU (screen capture):&#x20;
 
-<figure><img src=".gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Part 2. Group Policy&#x20;
 
@@ -80,7 +80,7 @@ description: ISSC242 Hardening Operating Systems Week 1
 
 2\. The updated Security permissions for the yourtown directory (screen capture):&#x20;
 
-<figure><img src=".gitbook/assets/image (4) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Part 4. Practical Application&#x20;
 

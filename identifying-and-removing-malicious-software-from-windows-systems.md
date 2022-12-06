@@ -29,7 +29,7 @@ description: ISSC242 I002 Fall 2022
 
 
 
-        <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+        <figure><img src=".gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Part 2: Scan a Windows Server 2016 Machine with Windows Defender
 
@@ -37,7 +37,7 @@ description: ISSC242 I002 Fall 2022
 
 
 
-    <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 2.  the number of potential threats identified by the scan
 
 
@@ -57,22 +57,22 @@ description: ISSC242 I002 Fall 2022
 
 
 
-    <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 2.  details of the VBS:Agent-SF \[Wrm] threat associated with \172.30.0.16\viral\projects\2014\vengine.zip|>MELISSA.txt
 
 
 
-    <figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (13) (3).png" alt=""><figcaption></figcaption></figure>
 3.  details of another threat identified in your scan
 
 
 
-    <figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (15) (3).png" alt=""><figcaption></figcaption></figure>
 4.  emptied Quarantine (Virus Vault)
 
 
 
-    <figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Part 2. Scan Windows Server 2016 with Windows Defender
 
@@ -80,10 +80,10 @@ description: ISSC242 I002 Fall 2022
 
 
 
-    <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 2.  threat details window
 
 
 
-    <figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 

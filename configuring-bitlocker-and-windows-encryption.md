@@ -33,7 +33,7 @@ description: ISSC242 I002 Fall 2022
 
 
 
-       <figure><img src=".gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src=".gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## SECTION 2:
 
@@ -52,7 +52,7 @@ description: ISSC242 I002 Fall 2022
 
 
 
-       <figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src=".gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
    *   user access details for the Encrypt folder;
 
 
